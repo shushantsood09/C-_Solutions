@@ -13,4 +13,5 @@ int main()
     b = temp;
     cout << "Numbers after swapping : " << endl;
     cout << "a = " << a << " b = " << b;
+    return 0;
 }
